@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Live chat</title>
+  <defs>
+    <linearGradient id="live-chat-g1" x1="24" y1="5" x2="24" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="live-chat-g2" x1="24" y1="17" x2="24" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#live-chat-g1)" fill-rule="evenodd" d="M7 5h23q3 0 3 3v6H20q-7 0-7 6v8l-6.5 5q-2 1-1.5-1v-6q-2-.5-2-3V9q0-4 4-4Z"/>
+  <path fill="url(#live-chat-g2)" fill-rule="evenodd" d="M20 17h21q3 0 3 3v14q0 3-3 3h-1v5.5q0 2-2 1l-9-6.5h-9q-4 0-4-4V21q0-4 4-4Z"/>
+</svg>
+

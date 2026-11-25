@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Search</title>
+  <defs>
+    <linearGradient id="search-g1" x1="24" y1="4" x2="24" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#search-g1)" fill-rule="evenodd" d="M20 4a16 16 0 0 1 13 25.5l10 10q2 2 0 4t-4 0L29 33.5A16 16 0 1 1 20 4ZM10 20a10 10 0 1 0 20 0a10 10 0 1 0 -20 0Z"/>
+</svg>
+

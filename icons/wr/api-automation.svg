@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>API integration and automation</title>
+  <defs>
+    <linearGradient id="api-automation-g1" x1="24" y1="21.5" x2="24" y2="26.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="api-automation-g2" x1="24" y1="16" x2="24" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="api-automation-g3" x1="24" y1="10" x2="24" y2="38" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="api-automation-g4" x1="24" y1="16" x2="24" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#api-automation-g1)" fill-rule="evenodd" d="M11 21.5h6a1 1 0 0 1 1 1v3a1 1 0 0 1 -1 1h-6a1 1 0 0 1 -1 -1v-3a1 1 0 0 1 1 -1Z M31 21.5h6a1 1 0 0 1 1 1v3a1 1 0 0 1 -1 1h-6a1 1 0 0 1 -1 -1v-3a1 1 0 0 1 1 -1Z"/>
+  <path fill="url(#api-automation-g2)" fill-rule="evenodd" d="M5 16h6a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-6a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2Z"/>
+  <path fill="url(#api-automation-g3)" fill-rule="evenodd" d="M19 10h10a3 3 0 0 1 3 3v22a3 3 0 0 1 -3 3h-10a3 3 0 0 1 -3 -3v-22a3 3 0 0 1 3 -3ZM22 18h4a1 1 0 0 1 1 1v10a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1v-10a1 1 0 0 1 1 -1Z"/>
+  <path fill="url(#api-automation-g4)" fill-rule="evenodd" d="M37 16h6a2 2 0 0 1 2 2v12a2 2 0 0 1 -2 2h-6a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2Z"/>
+</svg>
+

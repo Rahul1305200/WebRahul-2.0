@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Phone repair</title>
+  <defs>
+    <linearGradient id="sector-phone-repair-g1" x1="24" y1="4" x2="24" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="sector-phone-repair-g2" x1="24" y1="21" x2="24" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#sector-phone-repair-g1)" fill-rule="evenodd" d="M10 4h20q3 0 3 3v11q-5 .5-8 4.5-3.5 5.5-1.5 12L15 44h-5q-4 0-4-4V8q0-4 4-4ZM13 8h13a1 1 0 0 1 1 1v1a1 1 0 0 1 -1 1h-13a1 1 0 0 1 -1 -1v-1a1 1 0 0 1 1 -1ZM14 36h4a1 1 0 0 1 1 1v1a1 1 0 0 1 -1 1h-4a1 1 0 0 1 -1 -1v-1a1 1 0 0 1 1 -1Z"/>
+  <path fill="url(#sector-phone-repair-g2)" fill-rule="evenodd" d="M39 21q-3-1-6 .5-6.5 3-5.5 10l.5 2-8 7q-1.5 1.5 0 3t3.5 0l8.5-8q6.5 2 10-3.5 2-3 1-6.5l-5 4.5-4-1.5-1-4Z"/>
+</svg>
+

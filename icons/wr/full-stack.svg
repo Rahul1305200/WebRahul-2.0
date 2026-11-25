@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Full stack developer</title>
+  <defs>
+    <linearGradient id="full-stack-g1" x1="24" y1="4" x2="24" y2="24" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="full-stack-g2" x1="24" y1="19" x2="24" y2="34" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="full-stack-g3" x1="24" y1="29" x2="24" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#full-stack-g1)" fill-rule="evenodd" d="M23 4.5q1-.5 2 0L43 13q2 1 0 2l-18 8.5q-1 .5-2 0L5 15q-2-1 0-2Z"/>
+  <path fill="url(#full-stack-g2)" fill-rule="evenodd" d="M5 20.5l3-1.5 16 7.5L40 19l3 1.5q2 1 0 2L25 33q-1 .5-2 0L5 22.5q-2-1 0-2Z"/>
+  <path fill="url(#full-stack-g3)" fill-rule="evenodd" d="M5 30.5l3-1.5 16 7.5L40 29l3 1.5q2 1 0 2L25 43q-1 .5-2 0L5 32.5q-2-1 0-2Z"/>
+</svg>
+

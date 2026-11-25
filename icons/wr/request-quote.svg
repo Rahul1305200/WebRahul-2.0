@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Request a quote</title>
+  <defs>
+    <linearGradient id="request-quote-g1" x1="24" y1="4" x2="24" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="request-quote-g2" x1="24" y1="28" x2="24" y2="37" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#request-quote-g1)" fill-rule="evenodd" d="M10 4h18l11 11v26q0 3-3 3H10q-3 0-3-3V7q0-3 3-3ZM27 8v9h9ZM13 19h9a1 1 0 0 1 1 1v1a1 1 0 0 1 -1 1h-9a1 1 0 0 1 -1 -1v-1a1 1 0 0 1 1 -1ZM19.5 32.5a8 8 0 1 0 16 0a8 8 0 1 0 -16 0Z"/>
+  <path fill="url(#request-quote-g2)" fill-rule="evenodd" d="M27.5 28h0a1.5 1.5 0 0 1 1.5 1.5v6a1.5 1.5 0 0 1 -1.5 1.5h0a1.5 1.5 0 0 1 -1.5 -1.5v-6a1.5 1.5 0 0 1 1.5 -1.5Z"/>
+</svg>
+

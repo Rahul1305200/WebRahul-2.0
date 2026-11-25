@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Countries</title>
+  <defs>
+    <linearGradient id="countries-g1" x1="24" y1="4" x2="24" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#countries-g1)" fill-rule="evenodd" d="M4 24a20 20 0 1 0 40 0a20 20 0 1 0 -40 0ZM22 9q-4 3-5.5 12.5H22ZM26 9v12.5h5.5Q30 12 26 9ZM15.5 11Q10 14 8.5 21.5h4q.5-6 3-10.5ZM32.5 11q2.5 4 3 10.5h4Q38 15 32.5 11ZM22 39q-4-3-5.5-12.5H22ZM26 39V26.5h5.5Q30 36 26 39ZM15.5 37Q10 34 8.5 26.5h4q.5 6 3 10.5ZM32.5 37q2.5-4 3-10.5h4Q38 33 32.5 37Z"/>
+</svg>
+

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Quick reply</title>
+  <defs>
+    <linearGradient id="quick-reply-g1" x1="24" y1="5" x2="24" y2="43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="quick-reply-g2" x1="24" y1="14" x2="24" y2="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#quick-reply-g1)" fill-rule="evenodd" d="M24 5c12 0 20 7 20 17S36 39 24 39q-4 0-7-1L7 43q-2 1-1.5-1.5L8 32Q4 28 4 22C4 12 12 5 24 5ZM12.5 22a11.5 11.5 0 1 0 23 0a11.5 11.5 0 1 0 -23 0Z"/>
+  <path fill="url(#quick-reply-g2)" fill-rule="evenodd" d="M22 16a2 2 0 0 1 4 0v5h4a2 2 0 0 1 0 4h-6q-2 0-2-2Z"/>
+</svg>
+

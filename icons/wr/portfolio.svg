@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Portfolio</title>
+  <defs>
+    <linearGradient id="portfolio-g1" x1="24" y1="7" x2="24" y2="41" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#portfolio-g1)" fill-rule="evenodd" d="M7 7h12q2 0 3 1.5l3 3.5h16q3 0 3 3v23q0 3-3 3H7q-3 0-3-3V10q0-3 3-3ZM28 21a3.5 3.5 0 1 0 7 0a3.5 3.5 0 1 0 -7 0ZM10 33l8.5-10q1-1 2 0l7 8 3.5-3.5q1-1 2 0l5 5.5v2H10Z"/>
+</svg>
+

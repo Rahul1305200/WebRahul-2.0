@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Construction</title>
+  <defs>
+    <linearGradient id="sector-construction-g1" x1="24" y1="6" x2="24" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="sector-construction-g2" x1="24" y1="35" x2="24" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#sector-construction-g1)" fill-rule="evenodd" d="M6 32v-4c0-8 4-14 10-17l-1 13h3.5l2-16q.5-2 2-2H26q2 0 2 2l.5 12H32l-.5-9q8 4.5 8 16.5V32Z"/>
+  <path fill="url(#sector-construction-g2)" fill-rule="evenodd" d="M6 35h33l5 3q1 .5 1 2t-2 2H6q-2 0-2-2v-3q0-2 2-2Z"/>
+</svg>
+

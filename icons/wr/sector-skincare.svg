@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Skincare</title>
+  <defs>
+    <linearGradient id="sector-skincare-g1" x1="24" y1="4" x2="24" y2="15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="sector-skincare-g2" x1="24" y1="18" x2="24" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#sector-skincare-g1)" fill-rule="evenodd" d="M15 4h15q5 0 7 3.5l1.5 3-4 2-2-3q-1-1.5-4-1.5H24v4h3q2 0 2 2v1H15v-1q0-2 2-2h3V8h-5a2 2 0 0 1 0-4Z"/>
+  <path fill="url(#sector-skincare-g2)" fill-rule="evenodd" d="M17 18h10c5 0 9 4 9 9v14q0 3-3 3H11q-3 0-3-3V27c0-5 4-9 9-9ZM15.5 27h13a1.5 1.5 0 0 1 1.5 1.5v3a1.5 1.5 0 0 1 -1.5 1.5h-13a1.5 1.5 0 0 1 -1.5 -1.5v-3a1.5 1.5 0 0 1 1.5 -1.5Z"/>
+</svg>
+

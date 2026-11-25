@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Easy to edit</title>
+  <defs>
+    <linearGradient id="easy-to-edit-g1" x1="24" y1="4" x2="24" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="easy-to-edit-g2" x1="24" y1="17.5" x2="24" y2="27" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="easy-to-edit-g3" x1="24" y1="23" x2="24" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#easy-to-edit-g1)" fill-rule="evenodd" d="M9 4h17l9 9v4l-16 16-2.5 11H9q-3 0-3-3V7q0-3 3-3ZM25 8v7h7ZM12 19h13a1 1 0 0 1 1 1v1a1 1 0 0 1 -1 1h-13a1 1 0 0 1 -1 -1v-1a1 1 0 0 1 1 -1ZM12 25h7a1 1 0 0 1 1 1v1a1 1 0 0 1 -1 1h-7a1 1 0 0 1 -1 -1v-1a1 1 0 0 1 1 -1Z"/>
+  <path fill="url(#easy-to-edit-g2)" fill-rule="evenodd" d="M35 21l3-3q1-1 2 0l4 4q1 1 0 2l-3 3Z"/>
+  <path fill="url(#easy-to-edit-g3)" fill-rule="evenodd" d="M33 23l6 6-13.5 13-6.5 2 1.5-7Z"/>
+</svg>
+

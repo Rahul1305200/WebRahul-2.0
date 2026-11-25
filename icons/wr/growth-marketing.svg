@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Paid media and growth</title>
+  <defs>
+    <linearGradient id="growth-marketing-g1" x1="24" y1="16" x2="24" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#growth-marketing-g1)" fill-rule="evenodd" d="M6 23h9l17-7q2-1 2 1v21q0 2-2 1l-14-6 2 9q.5 2-2 2h-4q-1.5 0-2-2l-2.5-9H6q-2 0-2-2v-6q0-2 2-2ZM27.5 22l-5.5 2v7l5.5 2Z"/>
+  <path fill="#9BE56D" fill-rule="evenodd" d="M25 11l5-5h8v8l-3.5 3.5v-6l-6 6-3-3 5-5h-4.5Z"/>
+</svg>
+

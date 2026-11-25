@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Figma to WordPress</title>
+  <defs>
+    <linearGradient id="figma-to-wordpress-g1" x1="24" y1="12" x2="24" y2="36" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="figma-to-wordpress-g2" x1="24" y1="17" x2="24" y2="31" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="figma-to-wordpress-g3" x1="24" y1="9" x2="24" y2="39" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#figma-to-wordpress-g1)" fill-rule="evenodd" d="M3 12h6v2h6v-2h6v6h-1.5v12H21v6h-6v-2H9v2H3v-6h1.5V18H3ZM8 18v12h8V18Z"/>
+  <path fill="url(#figma-to-wordpress-g2)" fill-rule="evenodd" d="M21.5 22h4v-5l7 7-7 7v-5h-4Z"/>
+  <path fill="url(#figma-to-wordpress-g3)" fill-rule="evenodd" d="M33 9h6l6 6v22q0 2-2 2H30q-2 0-2-2v-6l7-7-7-7v-6q0-2 2-2ZM35 29h5a1 1 0 0 1 1 1v1a1 1 0 0 1 -1 1h-5a1 1 0 0 1 -1 -1v-1a1 1 0 0 1 1 -1ZM34 34h6a1 1 0 0 1 1 1v0a1 1 0 0 1 -1 1h-6a1 1 0 0 1 -1 -1v0a1 1 0 0 1 1 -1Z"/>
+</svg>
+

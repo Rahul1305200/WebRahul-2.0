@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Theme and plugin development</title>
+  <defs>
+    <linearGradient id="theme-plugin-dev-g1" x1="24" y1="3" x2="24" y2="43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#theme-plugin-dev-g1)" fill-rule="evenodd" d="M8 11h9v-2a6 6 0 0 1 12 0v2h8q2 0 2 2v8q-6-2-6 4t6 4v12q0 2-2 2H8q-2 0-2-2V13q0-2 2-2ZM17 19l-7 7 7 7 2.5-2.5L15 26l4.5-4.5ZM24 19l-2.5 2.5L26 26l-4.5 4.5L24 33l7-7Z"/>
+</svg>
+

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Roofing</title>
+  <defs>
+    <linearGradient id="sector-roofing-g1" x1="24" y1="6" x2="24" y2="29" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="sector-roofing-g2" x1="24" y1="18" x2="24" y2="42" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#sector-roofing-g1)" fill-rule="evenodd" d="M4 22.5L22.5 6.5q1.5-1.5 3 0L33 13V8h6v10.5l5 4.5q1 1 0 2l-3 3.5L24 13.5 7 28.5l-3-3.5q-1-1 0-2.5Z"/>
+  <path fill="url(#sector-roofing-g2)" fill-rule="evenodd" d="M9 31l15-13 15 13v9q0 2-2 2H11q-2 0-2-2ZM20 28h8a1 1 0 0 1 1 1v7a1 1 0 0 1 -1 1h-8a1 1 0 0 1 -1 -1v-7a1 1 0 0 1 1 -1Z"/>
+</svg>
+

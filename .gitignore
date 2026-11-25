@@ -1,0 +1,6 @@
+# local backups and working files (not part of the site)
+index-before-*.html
+index-restyle-undone.html
+map.svg.html
+Thumbs.db
+desktop.ini

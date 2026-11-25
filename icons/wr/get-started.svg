@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Get started</title>
+  <defs>
+    <linearGradient id="get-started-g1" x1="24" y1="4" x2="24" y2="32.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="get-started-g2" x1="24" y1="38" x2="24" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="get-started-g3" x1="24" y1="38" x2="24" y2="44" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="get-started-g4" x1="24" y1="34.5" x2="24" y2="40.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#get-started-g1)" fill-rule="evenodd" d="M20 4q2.5 0 2.5 2.5v.5q4.5-4 10.5-1.5 5 2.5 10.5-.5v17.5q-5.5 3.5-11 1-5.5-2.5-10 1V30a2.5 2.5 0 0 1-5 0V6.5Q17.5 4 20 4Z"/>
+  <path fill="url(#get-started-g2)" fill-rule="evenodd" d="M3.5 41a3 3 0 1 0 6 0a3 3 0 1 0 -6 0Z"/>
+  <path fill="url(#get-started-g3)" fill-rule="evenodd" d="M12 41a3 3 0 1 0 6 0a3 3 0 1 0 -6 0Z"/>
+  <path fill="url(#get-started-g4)" fill-rule="evenodd" d="M19.5 37.5a3 3 0 1 0 6 0a3 3 0 1 0 -6 0Z"/>
+</svg>
+

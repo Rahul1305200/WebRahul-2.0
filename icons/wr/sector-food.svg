@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Food</title>
+  <defs>
+    <linearGradient id="sector-food-g1" x1="24" y1="6" x2="24" y2="19" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="sector-food-g2" x1="24" y1="4" x2="24" y2="18" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="sector-food-g3" x1="24" y1="6" x2="24" y2="19" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="sector-food-g4" x1="24" y1="22" x2="24" y2="43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#sector-food-g1)" fill-rule="evenodd" d="M13 6q-1 3 1 5.5t.5 6q-1 1.5-3 1.5 .5-3-1-5.5Q7 8 13 6Z"/>
+  <path fill="url(#sector-food-g2)" fill-rule="evenodd" d="M24 4q-1 3.5 1 6.5t.5 6Q24.5 18 22 18q1-3.5-1-6-3.5-5.5 3-8Z"/>
+  <path fill="url(#sector-food-g3)" fill-rule="evenodd" d="M35 6q-1 3 1 5.5t.5 6q-1 1.5-3 1.5 .5-3-1-5.5Q29 8 35 6Z"/>
+  <path fill="url(#sector-food-g4)" fill-rule="evenodd" d="M6 22h36q2 0 2 2c0 7-4.5 13-12 16l-.5 1.5q-.5 1.5-2 1.5h-11q-1.5 0-2-1.5L16 40C8.5 37 4 31 4 24q0-2 2-2Z"/>
+</svg>
+

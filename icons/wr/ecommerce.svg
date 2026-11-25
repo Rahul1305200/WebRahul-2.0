@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>eCommerce</title>
+  <defs>
+    <linearGradient id="ecommerce-g1" x1="24" y1="4" x2="24" y2="43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+    <linearGradient id="ecommerce-g2" x1="24" y1="22" x2="24" y2="25" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#ecommerce-g1)" fill-rule="evenodd" d="M9 15H14V14a10 10 0 0 1 20 0v1h5q2 0 2 2l2 23q0 3-3 3H8q-3 0-3-3l2-23q0-2 2-2ZM18 15h12v-1a6 6 0 0 0-12 0ZM13 20h6.5l5 5q1 1 0 2l-5.5 5.5q-1 1-2 0l-5-5V21q0-1 1-1Z"/>
+  <path fill="url(#ecommerce-g2)" fill-rule="evenodd" d="M14 23.5a1.5 1.5 0 1 0 3 0a1.5 1.5 0 1 0 -3 0Z"/>
+</svg>
+

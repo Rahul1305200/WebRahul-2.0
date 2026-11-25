@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48" fill="none">
+<title>Website design</title>
+<defs>
+<linearGradient id="website-design-g1" x1="24" y1="7" x2="24" y2="41" gradientUnits="userSpaceOnUse"><stop offset="0" stop-color="#3E9B35"/><stop offset="1" stop-color="#0C2A10"/></linearGradient>
+</defs>
+<path fill="url(#website-design-g1)" fill-rule="evenodd" d="M9 7h30a4 4 0 0 1 4 4v26a4 4 0 0 1-4 4H9a4 4 0 0 1-4-4V11a4 4 0 0 1 4-4Zm2 4.5a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3Zm5 0a1.5 1.5 0 1 0 0 3 1.5 1.5 0 0 0 0-3ZM9 18v9a1 1 0 0 0 1 1h28a1 1 0 0 0 1-1v-9a1 1 0 0 0-1-1H10a1 1 0 0 0-1 1Zm1 13.5a1.5 1.5 0 0 0 0 3h14a1.5 1.5 0 0 0 0-3Zm19 0a1.5 1.5 0 0 0 0 3h9a1.5 1.5 0 0 0 0-3Z"/>
+</svg>

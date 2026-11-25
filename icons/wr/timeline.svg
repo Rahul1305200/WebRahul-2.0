@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Project timeline</title>
+  <defs>
+    <linearGradient id="timeline-g1" x1="24" y1="5" x2="24" y2="43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#timeline-g1)" fill-rule="evenodd" d="M10 5h28a2 2 0 0 1 0 4h-1c0 7-4 10.5-10 15 6 4.5 10 8 10 15h1a2 2 0 0 1 0 4H10a2 2 0 0 1 0-4h1c0-7 4-10.5 10-15-6-4.5-10-8-10-15h-1a2 2 0 0 1 0-4ZM16 11q.5 4 3.5 6.5h9Q31.5 15 32 11ZM16.5 39h15L24 32Z"/>
+</svg>
+

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 48">
+  <title>Your information is secure</title>
+  <defs>
+    <linearGradient id="secure-g1" x1="24" y1="4" x2="24" y2="43" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3E9B35"/>
+      <stop offset="1" stop-color="#0C2A10"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#secure-g1)" fill-rule="evenodd" d="M12 18v-2a12 12 0 0 1 24 0v2h3q3 0 3 3v19q0 3-3 3H9q-3 0-3-3V21q0-3 3-3ZM17 18h14v-2a7 7 0 0 0-14 0ZM24 23a4.5 4.5 0 0 0-2 8.5L21 37h6l-1-5.5A4.5 4.5 0 0 0 24 23Z"/>
+</svg>
+
